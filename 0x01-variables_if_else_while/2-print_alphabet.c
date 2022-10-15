@@ -3,9 +3,10 @@
 #include <time.h>
 
 
-/**
- *
+/*
  * main - Entry point
+ * 
+ * Description: Writing upper and lower in c
  *
  * Return: Always 0 (Success)
  *
